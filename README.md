@@ -1,4 +1,4 @@
-Assessment brief: 
+My Project: 
  
 My project aims to generate a personalized 20-song playlist from a random selection of songs by using machine learning algorithms to model a user's preferences. I began my project by trying to understand how the Spotify API works what features it has and how it can be used. This initial first step was very difficult and took me a long time to retrieve data as there were problems with the API’s limits to how many calls I could make and how much data I was able to extract. In the end, I was able to navigate this problem by making multiple CSV files and merging them using pandas. I decided that I was going to use two machine learning algorithms in my project and two greedy algorithms to help me choose the best songs. 
 
